@@ -1,0 +1,166 @@
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+    padding-left:10em ;
+    color: white;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 3em;
+    padding-left: 12em;
+    color: white;
+    padding-top: 2em;
+}
+.btn1{
+   width: 9em;
+    background-color: darkorchid;
+    height: 4em;
+    border-radius: 0.5em;
+    color: black;
+}
+.btn2{
+    height: 4em;
+    border-radius: 0.5em;
+    
+    width: 9em;
+background-color: darkorchid;
+}
+body{
+    background-image: url(sr.jpg);
+}
+.buttons{padding-left: 40em;}
+.buttons2{
+    padding-left: 40em;
+    padding-top: 1em;
+}
+form{
+    padding-left: 22em;
+}
+.email{
+    height: 4em;
+    width: 20em;
+    
+    border-radius: 0.5em;
+    
+}
+.password{
+    height: 4em;
+    
+    width: 20em;
+    border-radius: 0.5em;
+   
+}
+.prss{
+    width:10em ;
+    height: 4em;
+    padding-bottom: 1em;
+    border-radius: 0.5em;
+    background-color: blueviolet
+}
+.fn{
+height: 4em;
+width: 10em;
+border-radius: 0.5em;
+}
+.us{
+    height: 4em;
+    width: 10em;
+    border-radius: 0.5em;
+}
+.r{
+    height: 4em;
+    width: 10em;
+    border-radius: 0.5em;
+}
+.em{
+    height: 4em;
+    width: 10em;
+    border-radius: 0.5em;
+}
+.ps{
+    height: 4em;
+    width: 10em;
+    border-radius: 0.5em;
+}
+.bts{
+    height: 4em;
+width: 10em;
+border-radius: 0.5em;
+padding-bottom: 1em;
+background-color: blueviolet;
+}
+.pt{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+    padding-left:13em ;
+    color: white; 
+}
+
+.btnmed{
+    background-image: url("med.jpg");
+    height: 15em;
+    border-radius: 0.5em;
+    width: 30em;
+    background-position: bottom;
+}
+.btnbs{
+    background-image: url("bs.jpg");
+    height: 15em;
+    width: 30em;
+    border-radius: 0.5em;
+    background-position: bottom;
+}
+.btnms{
+    background-image: url("ms.jpg");
+    height: 15em;
+    width: 30em;
+    background-position: bottom;
+    border-radius: 0.5em;
+}
+.btncs{
+    background-image: url("cs.jpg");
+    height: 15em;
+    width: 30em;
+    
+    border-radius: 0.5em;
+    background-position: bottom;
+}
+.btnen{
+    background-image: url("en.jpg");
+    height: 15em;
+    border-radius: 0.5em;
+    width: 30em;
+    background-position: bottom;
+}
+.btnfm{
+    background-image: url("fm.jpg");
+    height: 15em;
+    width: 30em;
+    background-position: bottom;
+    border-radius: 0.5em;
+    
+}
+.btnlaw{
+    background-image: url("law.jpg");
+    height: 15em;
+    width: 30em;
+    background-position: bottom;
+    border-radius: 0.5em;
+}
+.btnfs{
+    background-image: url("fs.jpg");
+    border-radius: 0.5em;
+    height: 15em;
+    width: 30em;
+    background-position: bottom;
+}
+.buttonsk{
+    display:grid;
+    
+}
+a{
+    font-size: 2em;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
